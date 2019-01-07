@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DroidTracker</string>
+
+    <string name="permission_rationale">Location permission is needed for core functionality</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed for core
+        functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="ok">OK</string>
+
+    <string name="request_updates"></string>
+    <string name="remove_updates"></string>
+    <string name="unknown_location"></string>
+
+    <string name="batched_location_updates"></string>
+
+    <plurals name="num_locations_reported">
+        <item quantity="zero">No location reported</item>
+        <item quantity="one">One location reported</item>
+        <item quantity="other">%d locations reported</item>
+    </plurals>
+</resources>
