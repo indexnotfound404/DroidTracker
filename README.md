@@ -5,6 +5,7 @@
 
 Script to generate an Android App to track location in real time 
 
+![dt](https://user-images.githubusercontent.com/34893261/50787056-72b25a00-129c-11e9-9987-d7e8e53451ab.png)
 
 ### Features:
 #### Custom App Name
