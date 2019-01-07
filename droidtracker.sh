@@ -1,8 +1,8 @@
 #!/bin/bash
-# TrackDroid v1.0
+# DroidTracker v1.0
 # Author: @linux_choice (You don't become a coder by just changing the credits)
 # Instagram: @linux_choice
-# Github: https://github.com/thelinuxchoice/trackdroid
+# Github: https://github.com/thelinuxchoice/DroidTracker
 
 trap 'printf "\n";stop' 2
 var_ngrok=0
